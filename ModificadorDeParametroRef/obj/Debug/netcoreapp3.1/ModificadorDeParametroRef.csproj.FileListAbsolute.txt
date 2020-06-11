@@ -1,0 +1,13 @@
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroRef\ModificadorDeParametroRef\bin\Debug\netcoreapp3.1\ModificadorDeParametroRef.exe
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroRef\ModificadorDeParametroRef\bin\Debug\netcoreapp3.1\ModificadorDeParametroRef.deps.json
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroRef\ModificadorDeParametroRef\bin\Debug\netcoreapp3.1\ModificadorDeParametroRef.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroRef\ModificadorDeParametroRef\bin\Debug\netcoreapp3.1\ModificadorDeParametroRef.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroRef\ModificadorDeParametroRef\bin\Debug\netcoreapp3.1\ModificadorDeParametroRef.dll
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroRef\ModificadorDeParametroRef\bin\Debug\netcoreapp3.1\ModificadorDeParametroRef.pdb
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroRef\ModificadorDeParametroRef\obj\Debug\netcoreapp3.1\ModificadorDeParametroRef.csprojAssemblyReference.cache
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroRef\ModificadorDeParametroRef\obj\Debug\netcoreapp3.1\ModificadorDeParametroRef.csproj.CoreCompileInputs.cache
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroRef\ModificadorDeParametroRef\obj\Debug\netcoreapp3.1\ModificadorDeParametroRef.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroRef\ModificadorDeParametroRef\obj\Debug\netcoreapp3.1\ModificadorDeParametroRef.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroRef\ModificadorDeParametroRef\obj\Debug\netcoreapp3.1\ModificadorDeParametroRef.dll
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroRef\ModificadorDeParametroRef\obj\Debug\netcoreapp3.1\ModificadorDeParametroRef.pdb
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroRef\ModificadorDeParametroRef\obj\Debug\netcoreapp3.1\ModificadorDeParametroRef.genruntimeconfig.cache
